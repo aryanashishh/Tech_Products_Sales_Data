@@ -1,4 +1,4 @@
-Tech Products Sales Analytics Dashboard
+📊Tech Products Sales Analytics Dashboard
 - A Power BI dashboard designed to analyze sales performance of tech products across regions, categories, and timelines. This project converts raw sales data into meaningful insights that help businesses optimize revenue, product strategy, and customer targeting.
 
 📝 Short Description & Purpose
