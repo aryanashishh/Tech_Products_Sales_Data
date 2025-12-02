@@ -1,8 +1,8 @@
 Tech Products Sales Analytics Dashboard
-A Power BI dashboard designed to analyze sales performance of tech products across regions, categories, and timelines. This project converts raw sales data into meaningful insights that help businesses optimize revenue, product strategy, and customer targeting.
+- A Power BI dashboard designed to analyze sales performance of tech products across regions, categories, and timelines. This project converts raw sales data into meaningful insights that help businesses optimize revenue, product strategy, and customer targeting.
 
 📝 Short Description & Purpose
-This project focuses on creating a visually-rich and insight-driven Power BI dashboard using a Kaggle tech sales dataset.
+ - This project focuses on creating a visually-rich and insight-driven Power BI dashboard using a Kaggle tech sales dataset.
 The purpose is to simplify complex sales data, identify emerging patterns, analyze product performance, and support data-driven business decisions.
 
 🧰 Tech Stack
